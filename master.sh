@@ -1,2 +1,1 @@
-sudo yum -y install httpd
-sudo service httpd start
+sudo apt install apache2 -y
